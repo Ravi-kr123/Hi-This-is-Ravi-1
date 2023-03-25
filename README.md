@@ -1,11 +1,5 @@
-# Hi-This-is-Ravi
-This Is new 
-Tahjgxhjs
-zxhgcia.
-xsbhagscui
-sakhgdci
-sajj
-zajdgou
-sauduga
-3.daggoda
-.cauhg
+public class Main {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
